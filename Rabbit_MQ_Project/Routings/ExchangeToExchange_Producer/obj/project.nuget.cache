@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "inALdnW9hfYOhEfoB0McgHKwMQCe5Wwry793ai/niKDtrZuf62KOhX6rFtPRXa6LP7cQ/nJYifk523VbHwf4Yw==",
+  "success": true,
+  "projectFilePath": "D:\\working\\Rabbit_MQ\\Rabbit_MQ_Project\\Routings\\ExchangeToExchange_Producer\\ExchangeToExchange_Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
